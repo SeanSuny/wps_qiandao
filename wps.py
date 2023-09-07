@@ -1,3 +1,6 @@
+#cron: 20 10 * * *
+#new Env('WPS签到');
+
 # -*- coding: utf-8 -*-
 # @Time : 2023/8/27 15:51
 # @Author : 郭盖
